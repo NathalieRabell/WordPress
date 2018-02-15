@@ -1,0 +1,38 @@
+/*
+Theme Name: Oblique Child
+Theme URI: http://themeisle.com/themes/oblique
+Template: oblique
+Author: Themeisle
+Author URI: http://themeisle.com/
+Description: Oblique is a creative masonry theme that works great for fashion or general bloggers. Amongst the features you will find a a parallax header image, full color control with unlimited color variations, easy access to all Google Fonts, responsive design etc.
+Tags: custom-colors,custom-background,custom-menu,custom-header,featured-images,sticky-post,theme-options,threaded-comments,translation-ready
+Version: 2.0.8.1518715792
+Updated: 2018-02-15 17:29:52
+
+*/
+
+.footercolor{
+	color: #3d3436;
+}
+
+
+.site-footer, .site-footer a {
+	color: #ff5f54;
+}
+
+.comment-navigation .nav-previous, .posts-navigation .nav-previous, .post-navigation .nav-previous {
+    background-color: #7c5953
+}
+
+.comment-navigation .nav-next, .posts-navigation .nav-next, .post-navigation .nav-next {
+   background-color: #7c5953
+}
+
+
+button:hover, .button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover {
+   background-color: #7c5953
+}
+
+.single-thumb{
+	display:none;
+}
